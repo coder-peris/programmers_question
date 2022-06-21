@@ -1,3 +1,5 @@
+// WAP to store name, company, salary and programming languages of some programmers in c++ and display the result.
+
 #include <iostream>
 using namespace std;
 #include <list>
@@ -13,20 +15,21 @@ private:
 public:
     void getInfo()
     {
+        string temp;
         cout << "Enter name : ";
-        cin >> name;
+        getline(cin, name);
         cout << "Enter company : ";
-        cin >> company;
+        getline(cin, company);
         cout << "Enter salary : ";
-        cin >> salary;
+        getline(cin, salary);
         cout << "Enter no. of programming languages u know : ";
         cin >> noLang;
-        string languageName;
+        getline(cin, temp);
         for (int i = 1; i <= noLang; i++)
         {
             cout << "Enter language " << i << " : ";
-            cin >> languageName;
-            langList.push_back(languageName);
+            getline(cin, temp);
+            langList.push_back(temp);
         }
     }
     void showInfo()
@@ -36,16 +39,18 @@ public:
         cout << "Salary : " << salary << endl;
         cout << "Languages : ";
         for (string item : langList)
-            cout << item << " ";
+            cout << item << "  ";
         cout << endl;
     }
 };
 main()
 {
-    system("cls");
     int n;
+    string temp;
+    cout << "\033[H\033[2J";
     cout << "Enter the no. of programmers : ";
     cin >> n;
+    getline(cin, temp);
     Programmers p[n];
     for (int i = 0; i < n; i++)
     {
