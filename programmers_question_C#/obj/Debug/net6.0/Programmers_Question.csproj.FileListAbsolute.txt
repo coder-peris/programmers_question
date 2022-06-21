@@ -1,0 +1,30 @@
+C:\CODING\C#\Programmers_Question\bin\Debug\net6.0\Programmers_Question.exe
+C:\CODING\C#\Programmers_Question\bin\Debug\net6.0\Programmers_Question.deps.json
+C:\CODING\C#\Programmers_Question\bin\Debug\net6.0\Programmers_Question.runtimeconfig.json
+C:\CODING\C#\Programmers_Question\bin\Debug\net6.0\Programmers_Question.dll
+C:\CODING\C#\Programmers_Question\bin\Debug\net6.0\Programmers_Question.pdb
+C:\CODING\C#\Programmers_Question\obj\Debug\net6.0\Programmers_Question.csproj.AssemblyReference.cache
+C:\CODING\C#\Programmers_Question\obj\Debug\net6.0\Programmers_Question.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODING\C#\Programmers_Question\obj\Debug\net6.0\Programmers_Question.AssemblyInfoInputs.cache
+C:\CODING\C#\Programmers_Question\obj\Debug\net6.0\Programmers_Question.AssemblyInfo.cs
+C:\CODING\C#\Programmers_Question\obj\Debug\net6.0\Programmers_Question.csproj.CoreCompileInputs.cache
+C:\CODING\C#\Programmers_Question\obj\Debug\net6.0\Programmers_Question.dll
+C:\CODING\C#\Programmers_Question\obj\Debug\net6.0\refint\Programmers_Question.dll
+C:\CODING\C#\Programmers_Question\obj\Debug\net6.0\Programmers_Question.pdb
+C:\CODING\C#\Programmers_Question\obj\Debug\net6.0\Programmers_Question.genruntimeconfig.cache
+C:\CODING\C#\Programmers_Question\obj\Debug\net6.0\ref\Programmers_Question.dll
+C:\Users\peris\Desktop\New folder\programmers_question_C#\bin\Debug\net6.0\Programmers_Question.exe
+C:\Users\peris\Desktop\New folder\programmers_question_C#\bin\Debug\net6.0\Programmers_Question.deps.json
+C:\Users\peris\Desktop\New folder\programmers_question_C#\bin\Debug\net6.0\Programmers_Question.runtimeconfig.json
+C:\Users\peris\Desktop\New folder\programmers_question_C#\bin\Debug\net6.0\Programmers_Question.dll
+C:\Users\peris\Desktop\New folder\programmers_question_C#\bin\Debug\net6.0\Programmers_Question.pdb
+C:\Users\peris\Desktop\New folder\programmers_question_C#\obj\Debug\net6.0\Programmers_Question.csproj.AssemblyReference.cache
+C:\Users\peris\Desktop\New folder\programmers_question_C#\obj\Debug\net6.0\Programmers_Question.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peris\Desktop\New folder\programmers_question_C#\obj\Debug\net6.0\Programmers_Question.AssemblyInfoInputs.cache
+C:\Users\peris\Desktop\New folder\programmers_question_C#\obj\Debug\net6.0\Programmers_Question.AssemblyInfo.cs
+C:\Users\peris\Desktop\New folder\programmers_question_C#\obj\Debug\net6.0\Programmers_Question.csproj.CoreCompileInputs.cache
+C:\Users\peris\Desktop\New folder\programmers_question_C#\obj\Debug\net6.0\Programmers_Question.dll
+C:\Users\peris\Desktop\New folder\programmers_question_C#\obj\Debug\net6.0\refint\Programmers_Question.dll
+C:\Users\peris\Desktop\New folder\programmers_question_C#\obj\Debug\net6.0\Programmers_Question.pdb
+C:\Users\peris\Desktop\New folder\programmers_question_C#\obj\Debug\net6.0\Programmers_Question.genruntimeconfig.cache
+C:\Users\peris\Desktop\New folder\programmers_question_C#\obj\Debug\net6.0\ref\Programmers_Question.dll
